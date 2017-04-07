@@ -1,0 +1,25 @@
+tflaskapi:
+   restart: always
+   build: ./tflaskapi
+   expose:
+     - "8080"
+   ports:
+     - "8080:8080"
+   volumes:
+     - /usr/src/app/static:/usr/src/app/static
+   env_file: .env
+   command: /usr/local/bin/gunicorn -w 2 --timeout 4000 --bind :8080 main:app
+
+proxy:
+   restart: always
+   build: ./proxy
+   expose:
+     - "80"
+   ports:
+     - "85:80"
+   volumes_from:
+     - tflaskapi
+   links:
+     - tflaskapi:tflaskapi
+   depends_on:
+     - tflaskapi

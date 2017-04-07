@@ -1,0 +1,290 @@
+2017-04-07 13:06:09,708 - INFO - The application root directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi
+2017-04-07 13:06:09,709 - INFO - The application static directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/static
+2017-04-07 13:06:09,710 - INFO - The application upload directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/uploads
+2017-04-07 13:06:10,422 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-04-07 13:07:46,183 - INFO - 127.0.0.1 - - [07/Apr/2017 13:07:46] "POST /whatisit/ HTTP/1.1" 404 -
+2017-04-07 13:07:51,057 - INFO - 127.0.0.1 - - [07/Apr/2017 13:07:51] "POST /whatisit HTTP/1.1" 404 -
+2017-04-07 13:08:14,216 - INFO - 127.0.0.1 - - [07/Apr/2017 13:08:14] "GET /whatisit HTTP/1.1" 404 -
+2017-04-07 13:08:14,672 - INFO - 127.0.0.1 - - [07/Apr/2017 13:08:14] "GET /favicon.ico HTTP/1.1" 404 -
+2017-04-07 13:08:33,958 - INFO - 127.0.0.1 - - [07/Apr/2017 13:08:33] "POST /whatisit HTTP/1.1" 404 -
+2017-04-07 13:08:36,235 - INFO - 127.0.0.1 - - [07/Apr/2017 13:08:36] "POST /whatisit/ HTTP/1.1" 404 -
+2017-04-07 13:08:50,646 - INFO - The api call has been initiated...
+2017-04-07 13:08:50,655 - ERROR - ...the API Call wasn't completed
+2017-04-07 13:08:50,656 - ERROR - The error encountered is:: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2017-04-07 13:08:50,656 - INFO - Time required for the entire process to finish is         : 0.009440422058105469 seconds
+2017-04-07 13:08:50,737 - INFO - 127.0.0.1 - - [07/Apr/2017 13:08:50] "POST /whatsit/ HTTP/1.1" 500 -
+2017-04-07 13:08:57,874 - INFO - The api call has been initiated...
+2017-04-07 13:08:57,882 - ERROR - ...the API Call wasn't completed
+2017-04-07 13:08:57,882 - ERROR - The error encountered is:: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2017-04-07 13:08:57,883 - INFO - Time required for the entire process to finish is         : 0.008029699325561523 seconds
+2017-04-07 13:08:57,884 - INFO - 127.0.0.1 - - [07/Apr/2017 13:08:57] "POST /whatsit/ HTTP/1.1" 500 -
+2017-04-07 13:11:56,090 - INFO - The application root directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi
+2017-04-07 13:11:56,091 - INFO - The application static directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/static
+2017-04-07 13:11:56,091 - INFO - The application upload directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/uploads
+2017-04-07 13:11:56,147 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-04-07 13:12:09,044 - INFO - The api call has been initiated...
+2017-04-07 13:12:09,052 - ERROR - ...the API Call wasn't completed
+2017-04-07 13:12:09,052 - ERROR - The error encountered is:: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2017-04-07 13:12:09,052 - INFO - Time required for the entire process to finish is         : 0.007586002349853516 seconds
+2017-04-07 13:12:09,053 - INFO - 127.0.0.1 - - [07/Apr/2017 13:12:09] "POST /whatsit/ HTTP/1.1" 200 -
+2017-04-07 13:13:53,927 - INFO - The application root directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi
+2017-04-07 13:13:53,928 - INFO - The application static directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/static
+2017-04-07 13:13:53,928 - INFO - The application upload directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/uploads
+2017-04-07 13:13:53,983 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-04-07 13:14:43,725 - INFO - 127.0.0.1 - - [07/Apr/2017 13:14:43] "POST /whatsit HTTP/1.1" 301 -
+2017-04-07 13:14:49,207 - INFO - The api call has been initiated...
+2017-04-07 13:14:49,215 - ERROR - ...the API Call wasn't completed
+2017-04-07 13:14:49,215 - ERROR - The error encountered is:: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2017-04-07 13:14:49,215 - INFO - Time required for the entire process to finish is         : 0.007616758346557617 seconds
+2017-04-07 13:14:49,216 - INFO - 127.0.0.1 - - [07/Apr/2017 13:14:49] "POST /whatsit/ HTTP/1.1" 200 -
+2017-04-07 13:16:23,273 - INFO - The api call has been initiated...
+2017-04-07 13:16:23,280 - ERROR - ...the API Call wasn't completed
+2017-04-07 13:16:23,280 - ERROR - The error encountered is:: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2017-04-07 13:16:23,281 - INFO - Time required for the entire process to finish is         : 0.007029056549072266 seconds
+2017-04-07 13:16:23,281 - INFO - 127.0.0.1 - - [07/Apr/2017 13:16:23] "POST /whatsit/ HTTP/1.1" 200 -
+2017-04-07 13:16:33,842 - INFO - The application root directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi
+2017-04-07 13:16:33,843 - INFO - The application static directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/static
+2017-04-07 13:16:33,843 - INFO - The application upload directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/uploads
+2017-04-07 13:16:33,901 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-04-07 13:16:37,138 - INFO - The api call has been initiated...
+2017-04-07 13:16:37,140 - INFO - The request is <Request 'http://localhost:5000/whatsit/' [POST]>
+2017-04-07 13:16:37,153 - ERROR - ...the API Call wasn't completed
+2017-04-07 13:16:37,153 - ERROR - The error encountered is:: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2017-04-07 13:16:37,154 - INFO - Time required for the entire process to finish is         : 0.01515650749206543 seconds
+2017-04-07 13:16:37,155 - INFO - 127.0.0.1 - - [07/Apr/2017 13:16:37] "POST /whatsit/ HTTP/1.1" 200 -
+2017-04-07 13:17:05,681 - INFO - The application root directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi
+2017-04-07 13:17:05,681 - INFO - The application static directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/static
+2017-04-07 13:17:05,681 - INFO - The application upload directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/uploads
+2017-04-07 13:17:05,739 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-04-07 13:17:06,795 - INFO - The api call has been initiated...
+2017-04-07 13:17:06,807 - INFO - The request is ImmutableMultiDict([('file', <FileStorage: 'dog-lab.jpg' ('image/jpeg')>)])
+2017-04-07 13:17:06,807 - ERROR - ...the API Call wasn't completed
+2017-04-07 13:17:06,808 - ERROR - The error encountered is:: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2017-04-07 13:17:06,808 - INFO - Time required for the entire process to finish is         : 0.012991905212402344 seconds
+2017-04-07 13:17:06,810 - INFO - 127.0.0.1 - - [07/Apr/2017 13:17:06] "POST /whatsit/ HTTP/1.1" 200 -
+2017-04-07 13:17:48,160 - INFO - The application root directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi
+2017-04-07 13:17:48,160 - INFO - The application static directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/static
+2017-04-07 13:17:48,160 - INFO - The application upload directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/uploads
+2017-04-07 13:17:48,215 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-04-07 13:17:50,065 - INFO - The api call has been initiated...
+2017-04-07 13:17:50,080 - INFO - The request is <FileStorage: 'dog-lab.jpg' ('image/jpeg')>
+2017-04-07 13:17:50,080 - ERROR - ...the API Call wasn't completed
+2017-04-07 13:17:50,081 - ERROR - The error encountered is:: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2017-04-07 13:17:50,081 - INFO - Time required for the entire process to finish is         : 0.015268564224243164 seconds
+2017-04-07 13:17:50,083 - INFO - 127.0.0.1 - - [07/Apr/2017 13:17:50] "POST /whatsit/ HTTP/1.1" 200 -
+2017-04-07 13:19:13,541 - INFO - The application root directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi
+2017-04-07 13:19:13,541 - INFO - The application static directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/static
+2017-04-07 13:19:13,542 - INFO - The application upload directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/uploads
+2017-04-07 13:19:13,599 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-04-07 13:19:15,307 - INFO - The api call has been initiated...
+2017-04-07 13:19:15,318 - INFO - The request is <FileStorage: 'dog-lab.jpg' ('image/jpeg')>
+2017-04-07 13:19:15,318 - ERROR - ...the API Call wasn't completed
+2017-04-07 13:19:15,318 - ERROR - The error encountered is:: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2017-04-07 13:19:15,319 - INFO - Time required for the entire process to finish is         : 0.011445999145507812 seconds
+2017-04-07 13:19:15,320 - INFO - 127.0.0.1 - - [07/Apr/2017 13:19:15] "POST /whatsit/ HTTP/1.1" 200 -
+2017-04-07 13:20:07,809 - INFO - The application root directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi
+2017-04-07 13:20:07,809 - INFO - The application static directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/static
+2017-04-07 13:20:07,809 - INFO - The application upload directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/uploads
+2017-04-07 13:20:07,869 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-04-07 13:20:08,951 - INFO - The api call has been initiated...
+2017-04-07 13:20:08,959 - INFO - The request is <FileStorage: 'dog-lab.jpg' ('image/jpeg')>
+2017-04-07 13:20:09,034 - INFO - This is an uploaded image: <FileStorage: 'dog-lab.jpg' ('image/jpeg')>
+2017-04-07 13:20:09,035 - ERROR - ...the API Call wasn't completed
+2017-04-07 13:20:09,035 - ERROR - The error encountered is:: [Errno 2] No such file or directory: '/home/pratos/Side-Project/tflaskapi/tflaskapi/uploads/dog-lab.jpg'
+2017-04-07 13:20:09,035 - INFO - Time required for the entire process to finish is         : 0.08439946174621582 seconds
+2017-04-07 13:20:09,036 - INFO - 127.0.0.1 - - [07/Apr/2017 13:20:09] "POST /whatsit/ HTTP/1.1" 200 -
+2017-04-07 13:21:32,103 - INFO - The application root directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi
+2017-04-07 13:21:32,104 - INFO - The application static directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/static
+2017-04-07 13:21:32,104 - INFO - The application upload directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/uploads
+2017-04-07 13:21:32,161 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-04-07 13:21:33,797 - INFO - The api call has been initiated...
+2017-04-07 13:21:33,807 - INFO - The request is <FileStorage: 'dog-lab.jpg' ('image/jpeg')>
+2017-04-07 13:21:33,815 - INFO - This is an uploaded image: <FileStorage: 'dog-lab.jpg' ('image/jpeg')>
+2017-04-07 13:21:33,818 - INFO - The filepath is:: <Response streamed [200 OK]>
+2017-04-07 13:21:33,818 - ERROR - ...the API Call wasn't completed
+2017-04-07 13:21:33,818 - ERROR - The error encountered is:: name 'host' is not defined
+2017-04-07 13:21:33,819 - INFO - Time required for the entire process to finish is         : 0.0215299129486084 seconds
+2017-04-07 13:21:33,820 - INFO - 127.0.0.1 - - [07/Apr/2017 13:21:33] "POST /whatsit/ HTTP/1.1" 200 -
+2017-04-07 13:22:05,859 - INFO - The application root directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi
+2017-04-07 13:22:05,859 - INFO - The application static directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/static
+2017-04-07 13:22:05,860 - INFO - The application upload directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/uploads
+2017-04-07 13:22:05,915 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-04-07 14:08:04,229 - INFO - The application root directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi
+2017-04-07 14:08:04,230 - INFO - The application static directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/static
+2017-04-07 14:08:04,230 - INFO - The application upload directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/uploads
+2017-04-07 14:08:04,284 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-04-07 14:08:09,085 - INFO - The api call has been initiated...
+2017-04-07 14:08:09,101 - INFO - The request is <FileStorage: 'dog-lab.jpg' ('image/jpeg')>
+2017-04-07 14:08:09,102 - INFO - The file content type is:::: image/jpeg
+2017-04-07 14:08:09,102 - INFO - This is an uploaded image: <FileStorage: 'dog-lab.jpg' ('image/jpeg')>
+2017-04-07 14:08:09,107 - INFO - The filepath is:: <Response streamed [200 OK]>
+2017-04-07 14:08:09,351 - ERROR - ...the API Call wasn't completed
+2017-04-07 14:08:09,351 - ERROR - The error encountered is:: name 'prediction_service_pb2' is not defined
+2017-04-07 14:08:09,352 - INFO - Time required for the entire process to finish is         : 0.2659311294555664 seconds
+2017-04-07 14:08:09,353 - INFO - 127.0.0.1 - - [07/Apr/2017 14:08:09] "POST /whatsit/ HTTP/1.1" 200 -
+2017-04-07 14:09:50,923 - INFO - The application root directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi
+2017-04-07 14:09:50,923 - INFO - The application static directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/static
+2017-04-07 14:09:50,923 - INFO - The application upload directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/uploads
+2017-04-07 14:09:50,978 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-04-07 14:09:52,944 - INFO - The api call has been initiated...
+2017-04-07 14:09:52,958 - INFO - The request is <FileStorage: 'dog-lab.jpg' ('image/jpeg')>
+2017-04-07 14:09:52,959 - INFO - The file content type is:::: image/jpeg
+2017-04-07 14:09:52,960 - INFO - This is an uploaded image: <FileStorage: 'dog-lab.jpg' ('image/jpeg')>
+2017-04-07 14:09:52,964 - INFO - The filepath is:: <Response streamed [200 OK]>
+2017-04-07 14:09:52,973 - ERROR - ...the API Call wasn't completed
+2017-04-07 14:09:52,973 - ERROR - The error encountered is:: invalid file: <Response streamed [200 OK]>
+2017-04-07 14:09:52,973 - INFO - Time required for the entire process to finish is         : 0.0288236141204834 seconds
+2017-04-07 14:09:52,974 - INFO - 127.0.0.1 - - [07/Apr/2017 14:09:52] "POST /whatsit/ HTTP/1.1" 200 -
+2017-04-07 14:12:06,587 - INFO - The application root directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi
+2017-04-07 14:12:06,587 - INFO - The application static directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/static
+2017-04-07 14:12:06,588 - INFO - The application upload directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/uploads
+2017-04-07 14:12:06,643 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-04-07 14:12:07,506 - INFO - The api call has been initiated...
+2017-04-07 14:12:07,520 - INFO - The request is <FileStorage: 'dog-lab.jpg' ('image/jpeg')>
+2017-04-07 14:12:07,521 - INFO - The file content type is:::: image/jpeg
+2017-04-07 14:12:07,521 - INFO - This is an uploaded image: <FileStorage: 'dog-lab.jpg' ('image/jpeg')>
+2017-04-07 14:12:07,523 - INFO - The filepath is:: /home/pratos/Side-Project/tflaskapi/tflaskapi/uploads/dog-lab.jpg
+2017-04-07 14:12:21,684 - INFO - ::::::::::::::::::The response is::::::::::::::::::
+2017-04-07 14:12:21,686 - INFO - outputs {
+  key: "classes"
+  value {
+    dtype: DT_STRING
+    tensor_shape {
+      dim {
+        size: 1
+      }
+      dim {
+        size: 5
+      }
+    }
+    string_val: "Labrador retriever"
+    string_val: "golden retriever"
+    string_val: "Rottweiler"
+    string_val: "Rhodesian ridgeback"
+    string_val: "Chesapeake Bay retriever"
+  }
+}
+outputs {
+  key: "scores"
+  value {
+    dtype: DT_FLOAT
+    tensor_shape {
+      dim {
+        size: 1
+      }
+      dim {
+        size: 5
+      }
+    }
+    float_val: 8.128775596618652
+    float_val: 6.055893421173096
+    float_val: 4.217767715454102
+    float_val: 3.918299436569214
+    float_val: 3.659740686416626
+  }
+}
+
+2017-04-07 14:12:21,687 - INFO - Time required for the entire process to finish is         : 14.179500341415405 seconds
+2017-04-07 14:12:21,781 - INFO - 127.0.0.1 - - [07/Apr/2017 14:12:21] "POST /whatsit/ HTTP/1.1" 500 -
+2017-04-07 14:30:48,077 - INFO - The application root directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi
+2017-04-07 14:30:48,110 - INFO - The application static directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/static
+2017-04-07 14:30:48,111 - INFO - The application upload directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/uploads
+2017-04-07 14:30:48,335 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-04-07 14:30:53,975 - INFO - The api call has been initiated...
+2017-04-07 14:30:53,999 - INFO - The request is <FileStorage: 'dog-lab.jpg' ('image/jpeg')>
+2017-04-07 14:30:53,999 - INFO - The file content type is:::: image/jpeg
+2017-04-07 14:30:54,000 - INFO - This is an uploaded image: <FileStorage: 'dog-lab.jpg' ('image/jpeg')>
+2017-04-07 14:30:54,001 - INFO - The filepath is:: /home/pratos/Side-Project/tflaskapi/tflaskapi/uploads/dog-lab.jpg
+2017-04-07 14:31:03,832 - INFO - ::::::::::::::::::The response is::::::::::::::::::
+2017-04-07 14:31:03,835 - INFO - outputs {
+  key: "classes"
+  value {
+    dtype: DT_STRING
+    tensor_shape {
+      dim {
+        size: 1
+      }
+      dim {
+        size: 5
+      }
+    }
+    string_val: "Labrador retriever"
+    string_val: "golden retriever"
+    string_val: "Rottweiler"
+    string_val: "Rhodesian ridgeback"
+    string_val: "Chesapeake Bay retriever"
+  }
+}
+outputs {
+  key: "scores"
+  value {
+    dtype: DT_FLOAT
+    tensor_shape {
+      dim {
+        size: 1
+      }
+      dim {
+        size: 5
+      }
+    }
+    float_val: 8.128775596618652
+    float_val: 6.055893421173096
+    float_val: 4.217767715454102
+    float_val: 3.918299436569214
+    float_val: 3.659740686416626
+  }
+}
+
+2017-04-07 14:31:03,836 - INFO - Time required for the entire process to finish is         : 9.85969853401184 seconds
+2017-04-07 14:31:03,928 - INFO - 127.0.0.1 - - [07/Apr/2017 14:31:03] "POST /whatsit/ HTTP/1.1" 500 -
+2017-04-07 14:31:31,148 - INFO - The application root directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi
+2017-04-07 14:31:31,148 - INFO - The application static directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/static
+2017-04-07 14:31:31,149 - INFO - The application upload directory is : /home/pratos/Side-Project/tflaskapi/tflaskapi/uploads
+2017-04-07 14:31:31,206 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2017-04-07 14:31:34,861 - INFO - The api call has been initiated...
+2017-04-07 14:31:34,871 - INFO - The request is <FileStorage: 'dog-lab.jpg' ('image/jpeg')>
+2017-04-07 14:31:34,872 - INFO - The file content type is:::: image/jpeg
+2017-04-07 14:31:34,872 - INFO - This is an uploaded image: <FileStorage: 'dog-lab.jpg' ('image/jpeg')>
+2017-04-07 14:31:34,873 - INFO - The filepath is:: /home/pratos/Side-Project/tflaskapi/tflaskapi/uploads/dog-lab.jpg
+2017-04-07 14:31:38,209 - INFO - ::::::::::::::::::The response is::::::::::::::::::
+2017-04-07 14:31:38,212 - INFO - outputs {
+  key: "classes"
+  value {
+    dtype: DT_STRING
+    tensor_shape {
+      dim {
+        size: 1
+      }
+      dim {
+        size: 5
+      }
+    }
+    string_val: "Labrador retriever"
+    string_val: "golden retriever"
+    string_val: "Rottweiler"
+    string_val: "Rhodesian ridgeback"
+    string_val: "Chesapeake Bay retriever"
+  }
+}
+outputs {
+  key: "scores"
+  value {
+    dtype: DT_FLOAT
+    tensor_shape {
+      dim {
+        size: 1
+      }
+      dim {
+        size: 5
+      }
+    }
+    float_val: 8.128775596618652
+    float_val: 6.055893421173096
+    float_val: 4.217767715454102
+    float_val: 3.918299436569214
+    float_val: 3.659740686416626
+  }
+}
+
+2017-04-07 14:31:38,212 - INFO - Time required for the entire process to finish is         : 3.3504841327667236 seconds
+2017-04-07 14:31:38,216 - INFO - 127.0.0.1 - - [07/Apr/2017 14:31:38] "POST /whatsit/ HTTP/1.1" 200 -
